@@ -1,0 +1,8 @@
+{
+  "name": "token-saver",
+  "version": "1.0.0",
+  "description": "Skills y herramientas MCP para reducir el consumo de tokens de entrada y salida al usar Claude.",
+  "author": {
+    "name": "sebastianveras-netizen"
+  }
+}

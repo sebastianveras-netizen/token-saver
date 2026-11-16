@@ -1,0 +1,14 @@
+{
+  "name": "token-saver",
+  "owner": {
+    "name": "sebastianveras-netizen"
+  },
+  "description": "Marketplace con el plugin token-saver: ahorro de tokens mediante skills y un servidor MCP sin dependencias.",
+  "plugins": [
+    {
+      "name": "token-saver",
+      "source": "./",
+      "description": "Skills de compresión de contexto y herramientas MCP para compactar archivos y JSON."
+    }
+  ]
+}
